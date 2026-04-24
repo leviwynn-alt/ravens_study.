@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Architecture of Silence – Levi Wynn</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cormorant+Garamond:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div class="page-wrapper">
+
+    <header class="main-header">
+        <h1 class="site-title">The Raven's Study</h1>
+
+        <nav class="nav-bar">
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="library.html">library</a></li>
+        <li><a href="archives.html">Archives</a></li>
+        <li><a href="gothic.html">Themes of the Gothic</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="about.html">About</a></li>
+    </ul>
+</nav>
+    </header>
+	
+	<section class="section-block">
+        <h2>The Architecture of Slince </h2>
+        <p class="subtitle">Levi R Wynn</p>
+		<p>
+          I pried my jaw apart to scream,
+		  and felt it tearing at the seams,
+		  yet found it bound with thinking threads
+		  that were not mine- yet lived in me,
+		  coiled deep beneath what i could name,
+		  each one a memory without origin,
+		  each one aware i'd take the blame.
+		  They stitched me shut from the inside out
+		  through nerve and pulse and tremoring breath,
+		  until each thought i tried to voice
+		  collapsed before it reached it's death.
+		  I fought- I tore- I begged release,
+		  but every motion made them bind,
+		  as though the act of wanting out
+		  was what secured them to my mind
+		  and something watched benath It all-
+		  not cruel, not kind, but patient, still-
+		  as if it knew i'd break myself
+		  Long before I broke its will.
+        </p>
+    </section>
+
+    <footer class="footer">
+        <p>The Raven's Study – A Sanctuary of Ink, Shadow, and Eternal Night</p>
+    </footer>
+
+</div>
+
+</body>
+</html>

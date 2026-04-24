@@ -1,0 +1,134 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #0a0a0a;
+    color: #e6e6e6; 
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}
+
+
+.page-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+
+
+.site-title {
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 3.2rem;
+    color: #b30000; 
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px #300000;
+}
+
+
+.nav-bar ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 40px 0;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.nav-bar li {
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 1.1rem;
+    color: #d4c29c; 
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.nav-bar li:hover {
+    color: #b30000;
+    text-shadow: 0 0 8px #600000;
+}
+
+.section-block {
+    margin: 50px 0;
+    padding: 20px 0;
+    border-top: 1px solid #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.section-block h2 {
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 2rem;
+    color: #d4c29c;
+    margin-bottom: 20px;
+}
+
+
+.center-list {
+    list-style: none;
+    padding: 0;
+}
+
+.center-list li {
+    font-size: 1.3rem;
+    margin: 8px 0;
+    color: #e6e6e6;
+}
+
+
+.featured-work {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.thumbnail {
+    width: 180px;
+    height: 240px;
+    background: #1a1a1a;
+    border: 2px solid #3a3a3a;
+    margin: 0 auto 20px auto;
+}
+
+.read-summary {
+    background: #b30000;
+    color: #fff;
+    border: none;
+    padding: 10px 25px;
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.read-summary:hover {
+    background: #600000;
+    box-shadow: 0 0 10px #300000;
+}
+
+
+
+.quote-block blockquote {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: #d4c29c;
+    margin: 20px auto;
+    max-width: 700px;
+}
+
+.quote-author {
+    display: block;
+    margin-top: 10px;
+    font-size: 1.1rem;
+    color: #b30000;
+}
+
+
+
+.footer {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #3a3a3a;
+    font-size: 0.9rem;
+    color: #777;
+}
